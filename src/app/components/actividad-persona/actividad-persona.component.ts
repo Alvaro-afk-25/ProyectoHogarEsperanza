@@ -10,6 +10,7 @@ export class ActividadPersonaComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+  
   }
 
 }
